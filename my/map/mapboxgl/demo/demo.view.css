@@ -1,0 +1,12 @@
+[my_map_mapbox_demo] {
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	font: 1.5rem/1 sans-serif;
+	box-shadow: var(--mol_skin_light_outline);
+	flex: 1 1 auto;
+	align-self: stretch;
+	margin: 0;
+}

@@ -1,0 +1,9 @@
+$my_map_mapbox_demo $mol_demo_large
+	title @ \Simple Mapbox GL Maps wrapper
+	pnt /
+		0
+		0
+	sub /
+		<= Map $my_map_mapboxgl
+			center?val <=> pnt?val
+		<= message \

@@ -1,0 +1,5 @@
+[my_map_mapbox] {
+	flex: auto;
+	align-self: stretch;
+	filter: var(--mol_theme_image);
+}

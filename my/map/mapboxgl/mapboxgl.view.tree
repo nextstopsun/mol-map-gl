@@ -1,0 +1,8 @@
+$my_map_mapboxgl $mol_view
+	accessToken?val \pk.eyJ1IjoicnUiLCJhIjoiQ0pfaVBSRSJ9.vUTU15a6SR9f3PHaKaJfeA
+	style?val \mapbox://styles/mapbox/streets-v11
+	antialias?val false
+	zoom?val 2
+	center?val /
+		0
+		0
