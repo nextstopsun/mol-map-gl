@@ -1,4 +1,4 @@
-[my_map_mapbox] {
+[my_map_mapboxgl] {
 	flex: auto;
 	align-self: stretch;
 	filter: var(--mol_theme_image);
